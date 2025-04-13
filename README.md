@@ -53,9 +53,9 @@ Consiste na criação de uma landing page responsiva com foco em séries, conten
 ### 💻 Demonstração  
 
 Para visualizar uma prévia do projeto [clique aqui](https://play-na-serie.vercel.app/)  
-*(Substitua pelo link do projeto publicado)*
 
 ---
 
 ## 🙋 Autora  
-Katiadantass](https://github.com/Katiadantass) 
+Katiadantass](https://github.com/Katiadantass)
+Curso Full Stack Python – EBAC | Módulo 13 
