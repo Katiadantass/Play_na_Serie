@@ -59,4 +59,4 @@ Para visualizar uma prévia do projeto [clique aqui](https://play-na-serie.verce
 ## 🙋 Autora  
 Katiadantass](https://github.com/Katiadantass)
 
-Curso Full Stack Python – EBAC | Módulo 13 a
+Curso Full Stack Python – EBAC | Módulo 13
